@@ -12,12 +12,12 @@ It started as a Python port of Texas Instruments' *Analog Voltage Scaler Calcula
 
 ## Download
 
-Get the latest version from the **[Releases page](https://github.com/carlosabarberis/EE-Tools/releases)**.
-
-| Platform | File | Install |
+| Platform | Download | Install |
 |---|---|---|
-| **macOS** 11 or later | `VoltageScaler-1.1.dmg` | Open the DMG and drag **Voltage Scaler** onto **Applications**. Signed and notarized by Apple. |
-| **Windows** 10 / 11 | `VoltageScaler-1.1-Windows.zip` | Unzip anywhere and run `VoltageScaler.exe`. If SmartScreen appears, click **More info → Run anyway**. |
+| **macOS** 11 or later | [**VoltageScaler-1.1.dmg**](https://github.com/carlosabarberis/EE-Tools/releases/download/V1.1/VoltageScaler-1.1.dmg) | Open the DMG and drag **Voltage Scaler** onto **Applications**. Signed and notarized by Apple. |
+| **Windows** 10 / 11 | [**VoltScalerAmp.exe**](https://github.com/carlosabarberis/EE-Tools/releases/download/V1.1/VoltScalerAmp.exe) | Double-click `VoltScalerAmp.exe`. If SmartScreen appears, click **More info → Run anyway**. |
+
+All versions are on the [Releases page](https://github.com/carlosabarberis/EE-Tools/releases).
 
 ---
 
