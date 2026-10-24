@@ -8,7 +8,7 @@ Click a link to download the program directly.
 | Program | Windows | macOS |
 |---|---|---|
 | **[Voltage Scaler Calculator](VoltageScaler/README.md)** | [**VoltScalerAmp.exe**](https://github.com/carlosabarberis/EE-Tools/releases/download/V1.1/VoltScalerAmp.exe) (46 MB) | [**VoltageScaler-1.1.dmg**](https://github.com/carlosabarberis/EE-Tools/releases/download/V1.1/VoltageScaler-1.1.dmg) (43 MB) |
-| **[EE Tools Launcher](EE_Tools_Launcher_README.md)** | [**EE-Calculators-Setup.exe**](https://github.com/carlosabarberis/EE-Tools/releases/download/V1.0.0/EE-Calculators-Setup.exe) (677 MB) | — |
+| **[EE Tools Launcher](EE_Tools_Launcher_README.md)** | [**EE-Calculators-Setup.exe**](https://github.com/carlosabarberis/EE-Tools/releases/download/V1.0.0/EE-Calculators-Setup.exe) (677 MB) | [EE_Tools_Suite_v1_0.dmg](https://github.com/carlosabarberis/EE-Tools/releases/download/ee-tools-macos-v1.0/EE_Tools_Suite_v1_0.dmg) (580 MB)|
 | **[Bode Viewer](Bode-Viewer/README.md)** | [**BodeViewer.exe**](https://github.com/carlosabarberis/EE-Tools/releases/download/bode-viewer-v1.1/BodeViewer.exe) (72 MB) | [**bode_viewer-1.1.0.dmg**](https://github.com/carlosabarberis/EE-Tools/releases/download/bode-viewer-v1.1/bode_viewer-1.1.0.dmg) (78 MB) |
 | **[STM32 Configurator Toolkit](STM32-Configurator-Toolkit/README.md)** | [**stm32_configurator_toolkit.exe**](https://github.com/carlosabarberis/EE-Tools/releases/download/stm32-configurator-toolkit-v1.4.0/stm32_configurator_toolkit.exe) (47 MB) | [**stm32_configurator_toolkit-1.4.0.dmg**](https://github.com/carlosabarberis/EE-Tools/releases/download/stm32-configurator-toolkit-v1.4.0/stm32_configurator_toolkit-1.4.0.dmg) (37 MB) |
 
